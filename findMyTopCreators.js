@@ -1,4 +1,4 @@
-const { myTikToks } = require("./myTikToks");
+const { myTikToks } = require("./myTikToksOct23");
 
 function onlyUnique(value, index, self) {
   return self.indexOf(value) === index;
